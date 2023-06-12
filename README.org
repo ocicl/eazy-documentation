@@ -1,0 +1,10 @@
+* eazy-documentation
+
+One-shot solution to the CL library documentation generator.
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/guicho271828/eazy-documentation.git   |
+| commit  | 2f68d45  |
+| systems | eazy-documentation |
+|---------+-------------------------------------------|
+
